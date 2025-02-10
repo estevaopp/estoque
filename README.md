@@ -11,7 +11,7 @@ Controle de estoque
 * Rode as migrações.
 
 ```
-git clone https://github.com/rg3915/estoque.git
+git clone git@github.com:estevaopp/estoque.git
 cd estoque
 python3 -m venv .venv
 source .venv/bin/activate
@@ -21,3 +21,11 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
+
+
+## Modelo
+
+
+
+
+## Links
